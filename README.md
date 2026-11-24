@@ -1,1 +1,1 @@
-# Aathigithubit-Webcam-Image-Capture-and-Video-Processing-Using-OpenCV
+# Webcam-Image-Capture-and-Video-Processing-Using-OpenCV
